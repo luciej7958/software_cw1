@@ -1,1 +1,3 @@
 // file to put the code generated in netbeans
+
+System.out.println("Hello")
